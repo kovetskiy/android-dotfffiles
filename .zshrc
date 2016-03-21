@@ -14,6 +14,11 @@ alias vim='vi'
 alias l='ls -la'
 alias ls='ls -la'
 
+alias ga='git add'
+alias gc='git commit -m'
+alias gs='git status -s'
+alias gd='git diff'
+
 autoload colors
 colors
 

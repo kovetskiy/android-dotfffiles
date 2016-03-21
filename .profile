@@ -1,6 +1,8 @@
 export TERM=xterm
 export PS1='# '
 export HOME=/root/
+export USER=root
+export USERNAME=root
 
 if which zsh > /dev/null; then
     exec zsh
